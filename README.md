@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Wateen (j94k)!
 
-🎉 I'm turning 15 this month and about to start high school!  
+🎉 I'm turning 15 next month and about to start high school!  
 🧑‍🎓 Excited for new adventures, both in learning and life.
 
 ## 🚀 About Me

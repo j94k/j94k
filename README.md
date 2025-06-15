@@ -3,7 +3,7 @@
 
 ## 🎶 About Me
 - I like Lapfox Vulpvibe and their unique music styles.
-- I love the game Hotline Miami for its fast-paced action and soundtrack.
+- I love Hotline Miami for its fast-paced action and soundtrack.
 
 ## 💻 Languages & Tools
 - Python 🐍

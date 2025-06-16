@@ -8,7 +8,7 @@
 ## 💻 Languages & Tools
 - Python 🐍
 - JavaScript ⚡
-- 
+
 
 ## 🦈 Fun Facts
 - I'm passionate about creative soundtracks and indie games.
@@ -16,6 +16,9 @@
   
 ## 📱 Find Me Online
 - TikTok: [1msiz](https://www.tiktok.com/@1msiz)
+
+
+## 💟 learning some languages to make future project soon!!💟
 
 
   

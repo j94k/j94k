@@ -19,7 +19,6 @@
 
 
 ## 💟 learning some languages to make future project soon!!💟
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vulpvibe)](https://git.io/streak-stats)
 
 
 
